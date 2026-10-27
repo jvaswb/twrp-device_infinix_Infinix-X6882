@@ -1,1 +1,1 @@
-git clone https://github.com/jvaswb/twrp-device_infinix_X688-common.git -b fox_12.1 device/transsion/mt6789-common
+git clone https://github.com/jvaswb/twrp-device_infinix_X688-common.git device/transsion/mt6789-common -b fox_12.1 --depth=1
