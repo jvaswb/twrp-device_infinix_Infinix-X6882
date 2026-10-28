@@ -48,7 +48,6 @@ fi
 export LC_ALL="C"
 
 # Clone to fix build on minimal manifest
-git clone https://android.googlesource.com/platform/external/gflags/ -b android-12.1.0_r4 external/gflags
 git clone https://github.com/jvaswb/twrp-device_infinix_X688-common.git device/transsion/mt6789-common -b fox_12.1 --depth=1
 
 # Patches
